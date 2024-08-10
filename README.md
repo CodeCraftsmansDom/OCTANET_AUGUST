@@ -22,13 +22,13 @@ To run the project locally, follow these steps:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/nike-landing-page.git
+    git clone https://github.com/CodeCraftsmans/nike-landing-page.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd nike-landing-page
+    cd nike_web
     ```
 
 3. Install dependencies:
