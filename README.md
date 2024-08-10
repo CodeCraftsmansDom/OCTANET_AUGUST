@@ -22,7 +22,7 @@ To run the project locally, follow these steps:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/CodeCraftsmans/nike-landing-page.git
+    git clone https://github.com/CodeCraftsmans/nike_web.git
     ```
 
 2. Navigate to the project directory:
